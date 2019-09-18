@@ -1,0 +1,37 @@
+h1 {
+background-color: #0373fc;
+}
+
+header {
+  font-style: normal;
+}
+
+a {
+  color: hotpink;
+}
+
+a:hover {
+  color: black;
+}
+
+p {
+  font-size: 20px;
+  font-style: normal;
+
+}
+
+body {
+  font-weight: bold;
+  background-color: lightblue;
+}
+
+ul {
+  font-weight: 600;
+  list-style-type: square;
+}
+
+footer {
+  font-size: smaller
+  color: green;
+
+}
